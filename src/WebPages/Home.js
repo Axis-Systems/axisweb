@@ -5,10 +5,10 @@ const Home = () => {
     return ( 
         <div className="HomeContent">
             <Helmet>
-                <title>Meii</title>
+                <title>Axis</title>
                 <meta property="og:title" content="Meii" />
-                <meta name="description" content="The best free Discord confession bot." />
-                <meta property="og:description" content="The best free Discord confession bot." />
+                <meta name="description" content="The nextgeneration of Discord bots." />
+                <meta property="og:description" content="The nextgeneration of Discord bots." />
                 <meta property="og:url" content="meiibot.xyz" />
             </Helmet>
             <div className="LayoutContainer">
